@@ -8,7 +8,7 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me: 
 👋 I'm a passionate problem solver with a knack for unraveling puzzles and crafting innovative solutions. From fixing gadgets to exploring technology intricacies, problem-solving has always ignited my enthusiasm.
 
-🎓 Iam currently doing B.Tech Honours in Computer Science with AI and Analytics at GLA University, I've honed my technical skills and developed a holistic approach to problem-solving, emphasizing critical thinking and strategic analysis.
+🎓 I am currently doing B.Tech Honours in Computer Science with AI and Analytics at GLA University, I've honed my technical skills and developed a holistic approach to problem-solving, emphasizing critical thinking and strategic analysis.
 
 🚀 Driven by a relentless pursuit of growth and excellence, I thrive in dynamic environments that challenge me to push boundaries and explore new frontiers. Adaptable, self-motivated, and always eager to learn, I approach each endeavor with boundless enthusiasm and unwavering determination.
 
