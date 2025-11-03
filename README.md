@@ -12,7 +12,8 @@
 
 🚀 Driven by a relentless pursuit of growth and excellence, I thrive in dynamic environments that challenge me to push boundaries and explore new frontiers. Adaptable, self-motivated, and always eager to learn, I approach each endeavor with boundless enthusiasm and unwavering determination.
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ0dHcyN3EzaDkyeWxqOWZ3ZHNmczVjMXd1cmgwZmYxdXF0a3A2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="image" width="1500" height="500" />
+<!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ0dHcyN3EzaDkyeWxqOWZ3ZHNmczVjMXd1cmgwZmYxdXF0a3A2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="image" width="1500" height="500" /> -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnA4YTIzMjNtMjhiNnFqaXZtZXVhc3BvZGU0aWtwaGU1b2EwZHJxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="image" width="1500" height="500" />
 
 ## 🎓 Education:
 - Bachelor's of Technology (ongoing)
