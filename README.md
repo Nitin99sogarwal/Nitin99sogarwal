@@ -12,7 +12,7 @@
 
 🚀 Driven by a relentless pursuit of growth and excellence, I thrive in dynamic environments that challenge me to push boundaries and explore new frontiers. Adaptable, self-motivated, and always eager to learn, I approach each endeavor with boundless enthusiasm and unwavering determination.
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ0dHcyN3EzaDkyeWxqOWZ3ZHNmczVjMXd1cmgwZmYxdXF0a3A2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="image" width="1500" height="500" />
+<img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ0dHcyN3EzaDkyeWxqOWZ3ZHNmczVjMXd1cmgwZmYxdXF0a3A2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2cyc3l6ajN0cmh2d3RvNTVoZDh0dHl3dHIyYmZ0M2oydGtpemFobCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ML15sUZFNyMy0Yv55m/giphy.gif)" alt="image" width="1500" height="500" />
 
 ## 🎓 Education:
 - Bachelor's of Technology (ongoing)
@@ -49,7 +49,7 @@
 ## 💻 Languages & Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,php,mysql,linux,git,tensorflow,pytorch,sklearn,ai,sqlite,fastapi&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,php,mysql,git,tensorflow,pytorch,sklearn,ai,sqlite,fastapi&perline=6" />
   </a>
 </p>
 <p align="center">
